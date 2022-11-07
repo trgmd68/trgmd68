@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 my name is Thierry Dutranoit
 
-<!--
-**trgmd68/trgmd68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You will find here some of my works as a junior web developer!
 
-Here are some ideas to get you started:
+### My favorite languages are:
+- HTML
+- CSS
+- JavaScript
+- Sass
+- React JS
+- PHP
+- Python
+- C / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My prefered platforms:
+- Linux (Ubuntu, Archlinux)
+- MacOS
